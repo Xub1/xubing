@@ -12,6 +12,9 @@ Do the following:
 
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
-1. To finish, submit a link to the repository in your account on github to the assignment on BB. 
-I ate  noodle soup in the Morning. 
+1. To finish, submit a link to the repository in your account on github to the assignment on BB.
+
+1. I ate  noodle soup in the Morning. 
+
+
 
